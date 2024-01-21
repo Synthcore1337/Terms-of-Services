@@ -1,5 +1,3 @@
-Certainly! Here's an edited version of the Terms of Service for a bot named Ochako:
-
 ---
 
 **Ochako Bot - Terms of Service**
