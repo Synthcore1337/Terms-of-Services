@@ -27,7 +27,7 @@ The following actions are prohibited:
 
 **5. Contact Information**
 - Support Server: [Link to Support Server](https://discord.gg/ochako)
-- If the above links don't work, email us at ochakosupp@protonmail.com
+- If the above links don't work, email us at supportochako@protonmail.com
 
 Thank you for using Ochako Bot!
 
