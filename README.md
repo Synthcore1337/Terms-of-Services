@@ -1,6 +1,8 @@
+**Ochako Bot - Terms of Service**
+
 ---
 
-**Ochako Bot - Terms of Service**
+
 
 *Last Updated: [21/01/2024](https://discord.gg/ochako)*
 
